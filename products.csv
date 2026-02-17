@@ -1,0 +1,766 @@
+product_id,product_name,price,cogs,category_id
+1,Apple AirPods 3rd Gen,199.99,78.00,1
+2,Apple AirPods Max,549.99,231.00,1
+3,Apple AirPods Pro,249.99,112.50,1
+4,Apple AirPods Pro 2nd Gen,249.99,17.50,1
+5,Apple AirPods Pro 2nd Generation,249.99,20.00,1
+6,Apple iMac 24-Inch,1299.99,585.00,1
+7,Apple iMac 27-Inch Retina,1799.99,324.00,1
+8,Apple iMac Pro,4999.99,400.00,1
+9,Apple iPad 10th Gen,449.99,135.00,1
+10,Apple iPad 9th Gen,329.99,39.60,1
+11,Apple iPad Air (5th Gen),649.99,156.00,1
+12,Apple iPad Air (5th Gen),599.99,120.00,1
+13,Apple iPad Pro (11-inch),799.99,232.00,1
+14,Apple iPad Pro 12.9-inch (4th Gen),999.99,210.00,1
+15,Apple iPad Pro 12.9-inch (5th Gen),1099.99,352.00,1
+16,Apple iPhone 12 Mini,699.99,210.00,1
+17,Apple iPhone 13 Mini,699.99,112.00,1
+18,Apple iPhone 14,799.99,208.00,1
+19,Apple iPhone 14 Pro,999.99,190.00,1
+20,Apple MacBook Air 2020,999.99,270.00,1
+21,Apple MacBook Air M1,999.99,220.00,1
+22,Apple MacBook Air M2,1299.99,390.00,1
+23,Apple MacBook Pro 13-inch (M1),1299.99,273.00,1
+24,Apple MacBook Pro 14-inch,1999.99,320.00,1
+25,Apple MacBook Pro 16-inch,2499.99,475.00,1
+26,Apple MacBook Pro 16-inch (2021),2499.99,450.00,1
+27,Apple Magic Keyboard,149.99,33.00,1
+28,Apple Magic Keyboard with Touch ID,149.99,25.50,1
+29,Apple Magic Mouse 2,79.99,19.20,1
+30,Apple Magic Trackpad,129.99,52.00,1
+31,Apple TV 4K,179.99,46.80,1
+32,Apple TV 4K (2022),179.99,28.80,1
+33,Apple TV HD,149.99,42.00,1
+34,Apple Watch SE,279.99,64.40,1
+35,Apple Watch SE (2022),279.99,106.40,1
+36,Apple Watch Series 7,399.99,76.00,1
+37,Apple Watch Series 8,399.99,144.00,1
+38,Apple Watch Ultra,799.99,232.00,1
+39,Dell XPS 13 Laptop,1199.99,456.00,1
+40,Dell Alienware Aurora R13,2499.99,525.00,1
+41,Dell Inspiron 15 3000,899.99,63.00,1
+42,Dell UltraSharp U2720Q Monitor,719.99,309.60,1
+43,Dell XPS 17 Laptop,2099.99,231.00,1
+44,Dell S3221QS Curved Monitor,599.99,216.00,1
+45,Dell G5 Gaming Desktop,1499.99,390.00,1
+46,Dell Alienware m15 R6 Gaming Laptop,1699.99,493.00,1
+47,Dell Inspiron 14 5000 Laptop,999.99,420.00,1
+48,Dell UltraSharp U4021QW Monitor,1999.99,180.00,1
+49,Dell XPS 13 Plus,1399.99,476.00,1
+50,Dell Inspiron 14 5000,999.99,420.00,1
+51,Dell Alienware x17 Gaming Laptop,2099.99,630.00,1
+52,Dell XPS 15 Laptop,1799.99,324.00,1
+53,Dell Alienware m17 R5 Gaming Laptop,1899.99,779.00,1
+54,Samsung 65-Inch QLED TV,1299.99,494.00,1
+55,Samsung Galaxy Tab S8,649.99,84.50,1
+56,Samsung Galaxy Z Fold 4,1799.99,576.00,1
+57,Samsung 32-Inch Odyssey G7 Monitor,699.99,301.00,1
+58,Samsung Galaxy Buds2 Pro,249.99,20.00,1
+59,Samsung Galaxy Note 20 Ultra,1199.99,468.00,1
+60,Samsung Odyssey G9,1299.99,78.00,1
+61,Samsung Galaxy Z Flip 4,999.99,250.00,1
+62,Samsung 34-Inch Curved Monitor,399.99,116.00,1
+63,Samsung 27-Inch 4K Monitor,499.99,80.00,1
+64,Samsung Galaxy Watch 4,249.99,82.50,1
+65,Samsung Galaxy S22 Ultra,1199.99,156.00,1
+66,Samsung Galaxy Tab S7+,849.99,323.00,1
+67,Samsung Galaxy Watch 5,279.99,44.80,1
+68,Samsung 55-Inch Q80T QLED TV,1299.99,390.00,1
+69,Samsung Galaxy Z Fold 5,1799.99,810.00,1
+70,Samsung 43-Inch 4K UHD Monitor,399.99,20.00,1
+71,Samsung 55-Inch The Frame TV,1499.99,150.00,1
+72,Samsung Galaxy Buds Live,169.99,37.40,1
+73,Samsung Galaxy Z Flip 5,999.99,400.00,1
+74,Samsung 32-Inch Odyssey G5 Monitor,399.99,136.00,1
+75,Samsung Galaxy Watch 5 Pro,399.99,124.00,1
+76,Samsung 32-Inch Curved Monitor,279.99,67.20,1
+77,Samsung Galaxy A52 5G,499.99,115.00,1
+78,Samsung Galaxy S22,799.99,120.00,1
+79,Samsung Galaxy S22 Plus,999.99,450.00,1
+80,Samsung 49-Inch Odyssey G9 Curved Monitor,1299.99,273.00,1
+81,Samsung 32-Inch Monitor,299.99,39.00,1
+82,Samsung Galaxy S21 FE,699.99,259.00,1
+83,Samsung Galaxy S20 FE,699.99,161.00,1
+84,Samsung Galaxy Z Fold 3,1799.99,108.00,1
+85,Samsung Galaxy S20 Ultra,1199.99,96.00,1
+86,Samsung 32-Inch Curved UHD Monitor,329.99,125.40,1
+87,Samsung Galaxy Note 20,999.99,140.00,1
+88,Sony WH-1000XM4 Wireless Headphones,349.99,108.50,1
+89,Bose QuietComfort 35 II,299.99,111.00,1
+90,Canon EOS R5 Mirrorless Camera,3899.99,1326.00,1
+91,Microsoft Surface Pro 8,1099.99,407.00,1
+92,Nintendo Switch OLED Model,349.99,52.50,1
+93,LG OLED C1 Series 55-Inch TV,1799.99,576.00,1
+94,Fitbit Charge 5,149.99,33.00,1
+95,GoPro HERO10 Black,499.99,100.00,1
+96,Sonos One (Gen 2) Wireless Speaker,219.99,59.40,1
+97,HP Spectre x360 14,1299.99,338.00,1
+98,ASUS ROG Strix Scar 15,2299.99,460.00,1
+99,Garmin Forerunner 945,599.99,60.00,1
+100,DJI Mini 2 Drone,449.99,49.50,1
+101,Anker PowerCore 26800 Portable Charger,79.99,16.80,1
+102,Bose SoundLink Revolve+,299.99,105.00,1
+103,Sony A7 III Mirrorless Camera,1999.99,800.00,1
+104,Lenovo ThinkPad X1 Carbon,1399.99,238.00,1
+105,Jabra Elite 75t Wireless Earbuds,149.99,63.00,1
+106,Razer BlackWidow V3 Mechanical Keyboard,139.99,23.80,1
+107,Logitech MX Master 3,99.99,13.00,1
+108,Epson EcoTank ET-2760 Printer,229.99,75.90,1
+109,Roku Streaming Stick 4K,49.99,9.00,1
+110,Philips Hue White and Color Ambiance Bulbs,149.99,51.00,1
+111,Acer Predator Helios 300,1399.99,168.00,1
+112,TP-Link Archer AX73 Wi-Fi 6 Router,229.99,11.50,1
+113,Netgear Nighthawk X6S Router,299.99,39.00,1
+114,Microsoft Xbox Series X,499.99,25.00,1
+115,Sony PlayStation 5,499.99,120.00,1
+116,LG 27GN950-B UltraGear Monitor,799.99,80.00,1
+117,Western Digital 4TB My Passport External HD,139.99,42.00,1
+118,Corsair Vengeance LPX 16GB DDR4 RAM,79.99,16.00,1
+119,Elgato Stream Deck XL,249.99,30.00,1
+120,Logitech C920 HD Pro Webcam,79.99,28.80,1
+121,Amazon Echo Studio,199.99,22.00,1
+122,Sennheiser Momentum True Wireless 2,299.99,111.00,1
+123,Huawei Watch GT 3,229.99,23.00,1
+124,Beyerdynamic DT 990 Pro Headphones,179.99,68.40,1
+125,Sony WH-1000XM5 Wireless Headphones,399.99,108.00,1
+126,LG Gram 17 Laptop,1699.99,459.00,1
+127,Acer Nitro 5 Gaming Laptop,1099.99,319.00,1
+128,Garmin Venu 2,399.99,92.00,1
+129,Bose SoundLink Mini II,179.99,27.00,1
+130,Logitech G502 Hero Gaming Mouse,49.99,15.50,1
+131,Microsoft Surface Laptop Studio,1999.99,120.00,1
+132,ASUS ZenBook 13,1199.99,252.00,1
+133,Jabra Elite Active 65t,169.99,54.40,1
+134,GoPro HERO9 Black,399.99,84.00,1
+135,Canon EOS M50 Mark II,699.99,266.00,1
+136,Sony X90J 55-Inch TV,1299.99,468.00,1
+137,Logitech StreamCam,169.99,20.40,1
+138,Razer DeathAdder V2,69.99,24.50,1
+139,Nintendo Switch Lite,199.99,30.00,1
+140,HP ENVY 13 Laptop,1299.99,585.00,1
+141,Fitbit Versa 3,229.99,89.70,1
+142,Bose QuietComfort Earbuds,279.99,126.00,1
+143,Logitech MX Keys,119.99,33.60,1
+144,TP-Link Deco X20 Mesh Wi-Fi System,299.99,45.00,1
+145,Western Digital My Book 8TB External HD,189.99,76.00,1
+146,Acer Predator X34 Monitor,1099.99,264.00,1
+147,ASUS TUF Gaming A15,1299.99,130.00,1
+148,iRobot Roomba 694 Robot Vacuum,279.99,120.40,1
+149,Sony WH-CH710N Wireless Headphones,229.99,62.10,1
+150,NVIDIA GeForce RTX 3080 Graphics Card,699.99,196.00,1
+151,Elgato Game Capture HD60 S,249.99,65.00,1
+152,Logitech G Pro X Wireless Gaming Headset,129.99,19.50,1
+153,Sennheiser HD 660S,399.99,140.00,1
+154,Microsoft Surface Pen,99.99,16.00,1
+155,Bose 700 Noise Cancelling Headphones,379.99,133.00,1
+156,Fitbit Inspire 3,99.99,5.00,1
+157,Sony A6400 Mirrorless Camera,899.99,54.00,1
+158,Razer BlackWidow Elite,179.99,48.60,1
+159,Amazon Echo Show 8,129.99,36.40,1
+160,Corsair K95 RGB Platinum,199.99,10.00,1
+161,Logitech G Pro Gaming Keyboard,129.99,44.20,1
+162,LG UltraWide 34-Inch Monitor,799.99,136.00,1
+163,Belkin BoostCharge 10W Wireless Charger,39.99,2.80,1
+164,iPad Mini (6th Gen),499.99,30.00,1
+165,Google Nest Hub Max,229.99,94.30,1
+166,Panasonic Lumix GH5,1299.99,351.00,1
+167,Anker Soundcore Flare 2,99.99,39.00,1
+168,DJI Osmo Pocket 2,299.99,57.00,1
+169,Sony PlayStation 5 DualSense Controller,69.99,10.50,1
+170,Jabra Speak 710,299.99,93.00,1
+171,Logitech G733 Wireless Gaming Headset,129.99,26.00,1
+172,LG CineBeam HU80KA 4K Laser Projector,1799.99,612.00,1
+173,Microsoft Surface Dock 2,259.99,18.20,1
+174,TP-Link Kasa Smart Plug,24.99,3.50,1
+175,Fitbit Charge 4,149.99,40.50,1
+176,Sony Xperia 5 II,949.99,332.50,1
+177,Logitech C922 Pro Stream Webcam,79.99,28.80,1
+178,Roku Ultra 2022,99.99,39.00,1
+179,Huawei MatePad Pro,799.99,312.00,1
+180,Bose Noise Cancelling Headphones 700,379.99,152.00,1
+181,DJI Mavic Air 2,799.99,344.00,1
+182,ASUS ROG Flow X13,1499.99,315.00,1
+183,Lenovo IdeaPad Flex 5,849.99,187.00,1
+184,Logitech Brio 4K Webcam,199.99,28.00,1
+185,iPad Air (4th Gen),599.99,162.00,1
+186,GoPro HERO8 Black,299.99,57.00,1
+187,Bose Soundbar 700,799.99,40.00,1
+188,Garmin Edge 530 GPS Bike Computer,299.99,84.00,1
+189,Sennheiser CX 400BT True Wireless,199.99,76.00,1
+190,Sony WF-1000XM4 Wireless Earbuds,279.99,39.20,1
+191,HP Omen 15 Gaming Laptop,1299.99,130.00,1
+192,ASUS ROG Strix G15,1499.99,225.00,1
+193,Canon EOS R6 Mirrorless Camera,2499.99,175.00,1
+194,Microsoft Surface Book 3,1599.99,624.00,1
+195,Fitbit Versa 4,229.99,41.40,1
+196,Bose QuietComfort 45,329.99,16.50,1
+197,Sony Alpha 7C Mirrorless Camera,1799.99,648.00,1
+198,Logitech G Pro Wireless Gaming Mouse,129.99,58.50,1
+199,Jabra Elite 85t Wireless Earbuds,229.99,11.50,1
+200,Anker Soundcore Liberty Air 2 Pro,139.99,44.80,1
+201,Nintendo Switch Pro Controller,69.99,11.90,1
+202,Sony WH-XB910N Wireless Headphones,249.99,105.00,1
+203,Razer Naga X MMO Gaming Mouse,79.99,24.00,1
+204,Microsoft Xbox Series S,299.99,132.00,1
+205,Logitech G923 Racing Wheel,399.99,152.00,1
+206,DJI Mavic Mini 2,449.99,63.00,1
+207,Sony ZV-1 Compact Camera,749.99,82.50,1
+208,GoPro HERO11 Black,399.99,64.00,1
+209,Bose SoundLink Flex,149.99,18.00,1
+210,ASUS TUF Gaming VG27AQ Monitor,379.99,79.80,1
+211,Western Digital My Passport 1TB External HD,69.99,21.70,1
+212,HP Spectre x360 15,1399.99,280.00,1
+213,Logitech MX Master 2S,99.99,43.00,1
+214,Canon RF 24-70mm f/2.8L IS USM Lens,2299.99,736.00,1
+215,Anker Nebula Capsule,299.99,30.00,1
+216,Sony A7R IV Mirrorless Camera,3299.99,1188.00,1
+217,Logitech G915 TKL Mechanical Keyboard,229.99,50.60,1
+218,Jabra PanaCast 50 Conference Camera,799.99,128.00,1
+219,HP Envy 14 Laptop,1299.99,208.00,1
+220,Fitbit Luxe,149.99,7.50,1
+221,Canon RF 50mm f/1.2L USM Lens,2299.99,598.00,1
+222,Sony Xperia 10 III,449.99,54.00,1
+223,Logitech G703 Lightspeed Wireless Mouse,99.99,11.00,1
+224,LG UltraGear 38GN950 Monitor,1299.99,481.00,1
+225,Microsoft Surface Pro X,999.99,80.00,1
+226,Bose Home Speaker 500,399.99,160.00,1
+227,Sony WH-CH520 Wireless Headphones,79.99,12.00,1
+228,Razer Huntsman Elite Gaming Keyboard,199.99,24.00,1
+229,DJI Pocket 2,299.99,66.00,1
+230,Lenovo Yoga 9i,1399.99,210.00,1
+231,Sony A7S III Mirrorless Camera,3499.99,1330.00,1
+232,Microsoft Surface Headphones 2,249.99,75.00,1
+233,Logitech Brio 4K Ultra HD Webcam,199.99,62.00,1
+234,HP Pavilion 27-inch All-in-One,1299.99,364.00,1
+235,Anker PowerCore 10000 Portable Charger,29.99,13.20,1
+236,Canon EOS Rebel T8i Camera Kit,749.99,277.50,1
+237,Sony A6600 Mirrorless Camera,1399.99,588.00,1
+238,Logitech G Pro X Wireless Headset,129.99,15.60,1
+239,Microsoft Surface Laptop Go,699.99,154.00,1
+240,Sony WH-H910N Wireless Headphones,249.99,105.00,1
+241,Razer Viper Ultimate Wireless Mouse,149.99,12.00,1
+242,Canon RF 70-200mm f/2.8L IS USM Lens,2699.99,432.00,1
+243,HP Elite Dragonfly Laptop,1999.99,740.00,1
+244,Logitech MX Master 3S,99.99,5.00,1
+245,Sony RX100 VII Compact Camera,1299.99,312.00,1
+246,Microsoft Xbox Elite Series 2 Controller,179.99,61.20,1
+247,Bose Sleepbuds II,249.99,97.50,1
+248,Canon RF 85mm f/1.2L USM Lens,2299.99,207.00,1
+249,Lenovo ThinkPad X1 Yoga,1399.99,602.00,1
+250,Jabra Elite 65t Wireless Earbuds,149.99,36.00,1
+251,Razer BlackWidow V3 Mini Keyboard,139.99,33.60,1
+252,HP Spectre x360 13 Laptop,1299.99,65.00,1
+253,Sony WH-1000XM4 Noise Cancelling Headphones,349.99,17.50,1
+254,Canon EOS 90D Camera Kit,1199.99,396.00,1
+255,Bose Soundbar 300,399.99,120.00,1
+256,Microsoft Surface Pro 7,1099.99,187.00,1
+257,Logitech MX Keys Mini,119.99,30.00,1
+258,Sony XBR-65A8H OLED TV,2499.99,950.00,1
+259,Razer DeathAdder V2 Pro,89.99,15.30,1
+260,Canon RF 15-35mm f/2.8L IS USM Lens,2299.99,621.00,1
+261,HP 27fw Monitor,249.99,65.00,1
+262,Logitech G Pro X Mechanical Keyboard,129.99,28.60,1
+263,Sony A7 III Camera Kit,2199.99,748.00,1
+264,Lenovo IdeaPad Gaming 3,1099.99,110.00,1
+265,Microsoft Surface Laptop 4,1299.99,65.00,1
+266,Jabra Elite Active 75t,199.99,90.00,1
+267,Google Pixel 6 Pro,899.99,360.00,1
+268,Canon EOS 6D Mark II Camera Kit,1499.99,495.00,1
+269,HP Pavilion Gaming Desktop,1099.99,198.00,1
+270,Anker Soundcore Motion+,89.99,32.40,1
+271,Canon RF 24-105mm f/4L IS USM Lens,1299.99,130.00,1
+272,Razer Basilisk V3 Gaming Mouse,89.99,28.80,1
+273,Microsoft Surface Go 3,629.99,56.70,1
+274,Sony RX0 II Camera,699.99,266.00,1
+275,Logitech G920 Racing Wheel,299.99,45.00,1
+276,HP Chromebook x360 14,399.99,116.00,1
+277,Razer Viper V2 Pro,149.99,39.00,1
+278,Canon EOS Rebel T7 DSLR Kit,499.99,205.00,1
+279,Logitech G203 Lightsync Gaming Mouse,39.99,3.60,1
+280,Sony WH-1000XM3 Wireless Headphones,349.99,105.00,1
+281,Canon EOS 5D Mark IV Camera Kit,2499.99,625.00,1
+282,Logitech G502 Lightspeed Wireless Mouse,79.99,23.20,1
+283,HP Envy 17 Laptop,1499.99,360.00,1
+284,Razer BlackWidow V3 Gaming Keyboard,179.99,70.20,1
+285,Sony WH-H910N Noise Cancelling Headphones,249.99,95.00,1
+286,Microsoft Surface Laptop 3,1199.99,132.00,1
+287,Jabra Elite 75t,169.99,28.90,1
+288,Logitech C922 Pro Streaming Webcam,79.99,8.00,1
+289,Canon EOS Rebel T7i Camera Kit,699.99,203.00,1
+290,Microsoft Surface Book 2,1499.99,360.00,1
+291,Razer Naga Pro Wireless Gaming Mouse,149.99,63.00,1
+292,Sony A9 II Mirrorless Camera,4499.99,1845.00,1
+293,Logitech G512 Mechanical Keyboard,119.99,15.60,1
+294,HP Envy 32 All-in-One Desktop,1499.99,675.00,1
+295,Lenovo Legion 5 Pro Gaming Laptop,1499.99,330.00,1
+296,Canon EOS M50 Mark II Camera Kit,699.99,273.00,1
+297,Microsoft Surface Pro 6,1099.99,55.00,1
+298,Razer BlackWidow V3 Keyboard,179.99,63.00,1
+299,Sony WH-XB900N Wireless Headphones,249.99,47.50,1
+300,Microsoft Surface Headphones,249.99,107.50,1
+301,Canon EOS 77D Camera Kit,899.99,279.00,1
+302,Lenovo IdeaPad 3 15 Laptop,699.99,238.00,1
+303,Razer Kraken Ultimate Gaming Headset,129.99,37.70,1
+304,Sony A7C Mirrorless Camera,1799.99,270.00,1
+305,HP Pavilion x360 14 Laptop,899.99,387.00,1
+306,Canon EOS 6D Mark II Camera Kit,1699.99,629.00,1
+307,Razer Huntsman Mini Keyboard,129.99,33.80,1
+308,Logitech G910 Orion Spectrum Keyboard,179.99,10.80,1
+309,Men's Classic T-Shirt,19.99,6.80,2
+310,Women's Casual Dress,29.99,7.20,2
+311,Unisex Denim Jacket,49.99,22.50,2
+312,Men's Running Shoes,79.99,36.00,2
+313,Women's Leather Handbag,99.99,28.00,2
+314,Men's Sports Watch,89.99,25.20,2
+315,Women's Wool Scarf,39.99,6.80,2
+316,Unisex Sunglasses,14.99,1.80,2
+317,Men's Dress Shirt,34.99,6.65,2
+318,Women's Yoga Pants,24.99,3.00,2
+319,Men's Casual Shorts,29.99,3.00,2
+320,Women's Sun Hat,15.99,6.08,2
+321,Unisex Backpack,59.99,9.60,2
+322,Men's Winter Coat,129.99,29.90,2
+323,Women's Evening Gown,199.99,48.00,2
+324,Men's Cargo Pants,44.99,7.20,2
+325,Women's Sandals,34.99,2.80,2
+326,Unisex Beanie Hat,12.99,4.94,2
+327,Men's Leather Belt,22.99,9.89,2
+328,Women's Knit Sweater,49.99,21.50,2
+329,Men's Polo Shirt,27.99,2.80,2
+330,Women's High-Waisted Jeans,39.99,5.20,2
+331,Unisex Fitness Tracker,69.99,15.40,2
+332,Men's Blazer,89.99,4.50,2
+333,Women's Floral Skirt,25.99,2.08,2
+334,Men's Canvas Sneakers,34.99,15.40,2
+335,Women's Trench Coat,79.99,28.80,2
+336,Unisex Crossbody Bag,44.99,10.80,2
+337,Men's Dress Shoes,89.99,39.60,2
+338,Women's Silk Blouse,54.99,18.70,2
+339,Men's Zip-Up Hoodie,39.99,14.80,2
+340,Women's Athletic Shoes,59.99,19.80,2
+341,Unisex Cardigan,39.99,14.00,2
+342,Men's Suede Jacket,119.99,28.80,2
+343,Women's Denim Skirt,29.99,11.10,2
+344,Men's Casual Loafers,49.99,22.00,2
+345,Women's Overalls,39.99,15.60,2
+346,Unisex Wallet,22.99,9.66,2
+347,Men's Graphic T-Shirt,24.99,3.50,2
+348,Women's Peacoat,89.99,21.60,2
+349,Men's Fleece Jacket,49.99,8.50,2
+350,Women's Capris,29.99,3.00,2
+351,Unisex Sports Cap,16.99,2.21,2
+352,Men's Leather Gloves,34.99,5.25,2
+353,Women's Booties,64.99,19.50,2
+354,Men's Sweater Vest,39.99,4.40,2
+355,Women's Denim Jacket,54.99,17.05,2
+356,Unisex Utility Vest,49.99,12.50,2
+357,Men's Performance Shorts,27.99,7.00,2
+358,Women's Winter Scarf,19.99,2.40,2
+359,Men's Casual Sneakers,44.99,3.15,2
+360,Women's Embellished Dress,74.99,25.50,2
+361,Unisex Messenger Bag,39.99,16.80,2
+362,Men's Corduroy Pants,34.99,6.65,2
+363,Women's Ankle Boots,59.99,7.20,2
+364,Men's Track Jacket,54.99,16.50,2
+365,Women's Ballet Flats,24.99,2.00,2
+366,Unisex Beaded Bracelet,14.99,0.90,2
+367,Men's Casual Button-Down,39.99,12.40,2
+368,Women's Sleeveless Top,19.99,3.00,2
+369,Men's Formal Trousers,59.99,11.40,2
+370,Women's Long Sleeve Shirt,29.99,12.90,2
+371,Unisex Knit Gloves,16.99,2.89,2
+372,Men's Casual Vest,34.99,15.75,2
+373,Women's Fit & Flare Dress,64.99,17.55,2
+374,Men's Fitted Blazer,79.99,7.20,2
+375,Women's Platform Sneakers,49.99,7.50,2
+376,Unisex Classic Hat,19.99,4.40,2
+377,Men's Lightweight Jacket,49.99,20.00,2
+378,Women's Leggings,24.99,6.50,2
+379,Men's Leather Backpack,119.99,39.60,2
+380,Women's Quilted Vest,39.99,13.20,2
+381,Unisex Tech Gloves,22.99,9.89,2
+382,Men's Chino Shorts,29.99,7.50,2
+383,Women's Printed Scarf,22.99,7.13,2
+384,Men's Baseball Cap,14.99,4.65,2
+385,Women's Trapeze Dress,59.99,21.00,2
+386,Unisex Leather Gloves,27.99,3.08,2
+387,Men's Dress Vest,44.99,13.95,2
+388,Women's Wide-Leg Pants,34.99,10.15,2
+389,Men's Casual Shirt,34.99,11.90,2
+390,Women's A-Line Skirt,29.99,10.80,2
+391,Unisex Casual Belt,19.99,4.00,2
+392,Men's Softshell Jacket,69.99,10.50,2
+393,Women's Suede Boots,79.99,20.00,2
+394,Men's Fleece Pants,39.99,10.00,2
+395,Women's Tunic Top,29.99,8.40,2
+396,Unisex Leather Messenger Bag,64.99,19.50,2
+397,Men's Sweatpants,29.99,6.00,2
+398,Women's Wool Hat,22.99,5.29,2
+399,Men's Utility Shorts,34.99,5.95,2
+400,Women's Peplum Top,27.99,8.96,2
+401,Unisex Graphic Tee,24.99,9.50,2
+402,Men's Knit Beanie,12.99,2.86,2
+403,Women's Wide Brim Hat,18.99,7.41,2
+404,Men's Denim Jeans,39.99,15.60,2
+405,Women's Cropped Jacket,49.99,12.50,2
+406,Unisex Stylish Socks,12.99,1.82,2
+407,Men's Gym Shorts,24.99,4.00,2
+408,Women's Silk Robe,79.99,16.00,2
+409,Men's Casual Polo,29.99,6.00,2
+410,Women's Floral Romper,34.99,7.00,2
+411,Men's Casual Henley,29.99,8.10,2
+412,Women's Long Cardigan,49.99,18.00,2
+413,Unisex Beaded Necklace,29.99,5.70,2
+414,Men's Crewneck Sweatshirt,39.99,14.80,2
+415,Women's Maxi Dress,59.99,16.20,2
+416,Men's Lightweight Hoodie,44.99,13.50,2
+417,Women's Leather Boots,89.99,23.40,2
+418,Unisex Fanny Pack,19.99,6.40,2
+419,Men's Stylish Sneakers,49.99,12.50,2
+420,Women's Denim Overalls,54.99,6.60,2
+421,Men's Formal Shoes,69.99,16.80,2
+422,Women's Summer Dress,39.99,5.60,2
+423,Unisex Sports Watch,59.99,8.40,2
+424,Men's Chukka Boots,59.99,4.80,2
+425,Women's Embroidered Jacket,69.99,23.10,2
+426,Men's Work Boots,79.99,5.60,2
+427,Women's Cozy Sweater,49.99,13.50,2
+428,Unisex Messenger Bag,44.99,10.35,2
+429,Men's Casual Slacks,39.99,12.00,2
+430,Women's Faux Fur Coat,89.99,8.10,2
+431,Men's Dress Boots,99.99,22.00,2
+432,Women's Casual Sneakers,39.99,4.80,2
+433,Unisex Wide Brim Hat,24.99,8.50,2
+434,Men's Stretch Jeans,34.99,7.00,2
+435,Women's Wool Blend Dress,69.99,28.70,2
+436,Unisex Knit Scarf,19.99,7.20,2
+437,Men's Utility Jacket,54.99,7.70,2
+438,Women's Polka Dot Dress,34.99,7.00,2
+439,Men's Jogging Pants,29.99,9.00,2
+440,Women's Casual Flats,29.99,3.00,2
+441,Stainless Steel Cookware Set,149.99,52.50,3
+442,4-Slice Toaster,59.99,20.40,3
+443,Air Fryer,89.99,24.30,3
+444,Coffee Maker,69.99,21.70,3
+445,Electric Kettle,29.99,5.40,3
+446,Blender,49.99,3.50,3
+447,Microwave Oven,119.99,8.40,3
+448,Dish Rack,24.99,9.75,3
+449,Nonstick Frying Pan,39.99,11.20,3
+450,Food Processor,99.99,37.00,3
+451,Slow Cooker,79.99,10.40,3
+452,Stand Mixer,199.99,78.00,3
+453,Toaster Oven,89.99,21.60,3
+454,Cookware Set,159.99,49.60,3
+455,Electric Griddle,79.99,16.00,3
+456,Portable Induction Cooktop,89.99,34.20,3
+457,Espresso Machine,149.99,22.50,3
+458,Water Filter Pitcher,34.99,5.95,3
+459,Set of Mixing Bowls,29.99,10.20,3
+460,Kitchen Scale,19.99,5.40,3
+461,Spice Rack,24.99,8.75,3
+462,Cutting Board Set,34.99,7.70,3
+463,Baking Sheet Set,29.99,13.20,3
+464,Salt and Pepper Grinder Set,22.99,5.75,3
+465,Silicone Baking Mats,19.99,4.60,3
+466,Can Opener,15.99,6.72,3
+467,Measuring Cups and Spoons Set,18.99,7.98,3
+468,Dish Towels Set,22.99,6.44,3
+469,Kitchen Utensil Set,29.99,10.20,3
+470,Cast Iron Skillet,39.99,14.00,3
+471,Mixing Bowls with Lids,29.99,12.90,3
+472,Food Storage Containers,34.99,15.40,3
+473,Coffee Grinder,39.99,6.40,3
+474,Tea Infuser,12.99,2.34,3
+475,Ice Cream Maker,129.99,6.50,3
+476,Reusable Food Storage Bags,22.99,3.22,3
+477,Electric Wine Opener,29.99,12.60,3
+478,Pizza Stone,29.99,2.10,3
+479,Griddle Pan,34.99,6.30,3
+480,Panini Press,49.99,16.50,3
+481,Knife Set,79.99,8.80,3
+482,Adjustable Rolling Pin,19.99,8.00,3
+483,Waffle Maker,39.99,2.00,3
+484,Popcorn Maker,29.99,5.10,3
+485,Tea Kettle,24.99,9.25,3
+486,Silicone Spatula Set,18.99,6.27,3
+487,Meat Thermometer,14.99,1.05,3
+488,Bread Maker,99.99,34.00,3
+489,Electric Hot Pot,59.99,21.00,3
+490,Kitchen Timer,12.99,5.72,3
+491,Chafing Dish Set,89.99,19.80,3
+492,Kitchen Sink Organizer,24.99,7.50,3
+493,Trash Can with Lid,29.99,13.20,3
+494,Countertop Compost Bin,22.99,8.28,3
+495,Magnetic Knife Strip,19.99,5.20,3
+496,Food Processor Attachments,29.99,7.50,3
+497,Herb Scissors,14.99,2.55,3
+498,Nonstick Bakeware Set,39.99,13.60,3
+499,Oil Dispenser,16.99,4.25,3
+500,Grater Set,18.99,3.42,3
+501,Utensil Holder,12.99,2.60,3
+502,Wooden Salad Bowl,29.99,6.60,3
+503,Oven Mitts Set,19.99,4.80,3
+504,Pot Holders,14.99,4.05,3
+505,Soup Maker,79.99,28.80,3
+506,Cheese Board Set,34.99,5.95,3
+507,Vacuum Sealer,69.99,14.00,3
+508,Bread Box,39.99,15.60,3
+509,Kitchen Drawer Organizers,24.99,9.50,3
+510,Collapsible Dish Rack,22.99,1.61,3
+511,Rolling Pin,15.99,1.28,3
+512,Canister Set,29.99,12.00,3
+513,Wine Glasses Set,34.99,5.60,3
+514,Serving Tray,19.99,1.80,3
+515,Sifter,12.99,5.33,3
+516,Pop-Up Toaster,39.99,6.80,3
+517,Adjustable Cooling Rack,22.99,4.60,3
+518,Electric Egg Cooker,24.99,11.25,3
+519,Cooktop Burner,59.99,27.00,3
+520,Induction Cookware Set,129.99,29.90,3
+521,Wall-Mounted Bottle Opener,14.99,1.35,3
+522,Microwave Popcorn Popper,12.99,5.07,3
+523,Vegetable Peeler,9.99,0.70,3
+524,Kitchen Gadget Set,34.99,15.40,3
+525,Tea Towels Set,22.99,8.51,3
+526,Pot and Pan Protectors,16.99,5.10,3
+527,Food Chopper,22.99,5.06,3
+528,Dishwashing Gloves,12.99,5.20,3
+529,Set of Measuring Spoons,9.99,1.00,3
+530,Food Storage Jars,29.99,4.20,3
+531,Dish Brush,9.99,1.30,3
+532,Collapsible Storage Bins,22.99,8.05,3
+533,Grilling Tools Set,39.99,10.40,3
+534,Pancake Maker,34.99,7.00,3
+535,Ice Cube Trays,9.99,2.80,3
+536,Rolling Pin with Thickness Rings,22.99,8.51,3
+537,Spice Grinder,19.99,3.60,3
+538,Tea Canister Set,14.99,2.10,3
+539,Drawer Cutlery Organizer,18.99,2.85,3
+540,Salad Spinner,22.99,1.84,3
+541,Knife Sharpener,16.99,2.55,3
+542,Potato Masher,12.99,3.64,3
+543,Casserole Dish Set,34.99,3.85,3
+544,Pan Protector,12.99,4.55,3
+545,Adjustable Measuring Cup,18.99,5.70,3
+546,Silicone Ice Cube Molds,14.99,1.65,3
+547,Dog Leash,15.99,5.60,4
+548,Cat Scratching Post,29.99,11.70,4
+549,Bird Cage,49.99,15.00,4
+550,Pet Carrier,39.99,13.60,4
+551,Cat Bed,24.99,7.25,4
+552,Dog Crate,89.99,36.90,4
+553,Pet Food Bowl,14.99,3.00,4
+554,Dog Toys Set,19.99,5.20,4
+555,Automatic Pet Feeder,69.99,8.40,4
+556,Fish Tank,79.99,17.60,4
+557,Teddy Bear,12.99,5.59,5
+558,Lego Building Blocks,29.99,12.00,5
+559,Remote Control Car,49.99,16.50,5
+560,Dollhouse,79.99,29.60,5
+561,Action Figures,24.99,2.75,5
+562,Board Game,34.99,3.15,5
+563,Puzzle,19.99,6.40,5
+564,Play-Doh Set,14.99,1.95,5
+565,Stuffed Animal,22.99,4.37,5
+566,Building Blocks,39.99,17.60,5
+567,Basketball,29.99,12.00,6
+568,Soccer Ball,19.99,6.60,6
+569,Tennis Racket,49.99,14.50,6
+570,Yoga Mat,34.99,5.60,6
+571,Dumbbell Set,79.99,27.20,6
+572,Golf Clubs,299.99,78.00,6
+573,Hiking Backpack,89.99,35.10,6
+574,Camping Tent,119.99,40.80,6
+575,Fishing Rod,54.99,23.65,6
+576,Ski Poles,89.99,23.40,6
+577,Running Shoes,69.99,12.60,6
+578,Cat Litter Box,34.99,3.50,4
+579,Dog Bed,49.99,20.00,4
+580,Pet Shampoo,14.99,2.70,4
+581,Pet Brush,19.99,3.00,4
+582,Bird Toy,9.99,0.60,4
+583,Dog Treats,12.99,2.08,4
+584,Pet Collar,16.99,2.21,4
+585,Cat Tree,79.99,26.40,4
+586,Dog Food,39.99,3.60,4
+587,Aquarium Filter,29.99,3.90,4
+588,Board Game,24.99,4.25,5
+589,Nerf Blaster,39.99,5.20,5
+590,Trampoline,149.99,63.00,5
+591,Kites,19.99,6.60,5
+592,Educational Tablet,79.99,24.00,5
+593,Magic Set,29.99,3.00,5
+594,RC Boat,64.99,24.05,5
+595,Bike Helmet,34.99,3.50,6
+596,Skateboard,59.99,23.40,6
+597,Tennis Balls,14.99,2.25,6
+598,Baseball Glove,29.99,8.70,6
+599,Exercise Ball,22.99,6.67,6
+600,Folding Chair,39.99,2.80,6
+601,Portable Grill,99.99,21.00,6
+602,Swim Goggles,12.99,4.55,6
+603,Resistance Bands,19.99,1.60,6
+604,Pet Cooling Mat,34.99,12.95,4
+605,Dog Harness,29.99,11.10,4
+606,Cat Carrier,39.99,10.80,4
+607,Pet Water Fountain,49.99,3.50,4
+608,Dog Nail Clippers,14.99,5.40,4
+609,Pet Blanket,19.99,3.80,4
+610,Pet Travel Bed,54.99,12.10,4
+611,Cat Food,27.99,5.04,4
+612,Dog Training Collar,79.99,21.60,4
+613,Hamster Cage,39.99,13.20,4
+614,Remote Control Helicopter,54.99,23.65,5
+615,Magic Markers Set,18.99,6.46,5
+616,Wooden Train Set,34.99,8.05,5
+617,Giant Jenga,49.99,13.50,5
+618,Play Kitchen Set,79.99,16.80,5
+619,Puzzle Mat,22.99,8.97,5
+620,Train Set,59.99,3.00,5
+621,Learning Tablet,89.99,28.80,5
+622,Hot Wheels Cars,14.99,5.40,5
+623,Golf Balls,19.99,6.40,6
+624,Sports Water Bottle,14.99,2.55,6
+625,Snowshoes,99.99,30.00,6
+626,Baseball Bat,39.99,14.40,6
+627,Hiking Poles,49.99,14.00,6
+628,Running Watch,129.99,10.40,6
+629,Camping Lantern,29.99,12.90,6
+630,CrossFit Gear,89.99,38.70,6
+631,Pet Raincoat,24.99,3.75,4
+632,Dog Pool,49.99,10.00,4
+633,Pet Wipes,12.99,2.47,4
+634,Dog Bone,9.99,1.60,4
+635,Cat Food Dispenser,34.99,9.45,4
+636,Pet Gate,59.99,19.80,4
+637,Dog First Aid Kit,22.99,8.74,4
+638,Pet GPS Tracker,99.99,10.00,4
+639,Dog Agility Equipment,89.99,36.90,4
+640,Pet Odor Eliminator,14.99,5.85,4
+641,Dog Ramp,79.99,18.40,4
+642,Inflatable Pool,99.99,41.00,5
+643,Sand Box,29.99,7.20,5
+644,Glow Sticks,12.99,1.56,5
+645,Kids Camera,49.99,5.50,5
+646,Miniature Golf Set,39.99,5.60,5
+647,Outdoor Playhouse,119.99,25.20,5
+648,Child's Scooter,29.99,1.50,5
+649,Electronic Drum Set,129.99,52.00,5
+650,Water Gun,19.99,7.00,5
+651,Frisbee,9.99,4.30,5
+652,Soccer Net,34.99,12.25,6
+653,Tennis Set,59.99,16.80,6
+654,Basketball Hoop,119.99,28.80,6
+655,Exercise Resistance Bands,22.99,9.43,6
+656,Baseball Set,34.99,9.10,6
+657,Yoga Blocks,18.99,2.09,6
+658,Bicycle Pump,14.99,3.60,6
+659,Sports Massage Roller,19.99,3.20,6
+660,Fitness Tracker,79.99,27.20,6
+661,Swim Fins,29.99,6.30,6
+662,Dog Toy Chew Ring,15.99,3.52,4
+663,Catnip Toys,12.99,1.30,4
+664,Pet Stroller,129.99,22.10,4
+665,Bird Feeder,19.99,1.00,4
+666,Pet Toothbrush,9.99,1.60,4
+667,Dog Travel Bowl,14.99,0.75,4
+668,Cat Carrier Backpack,49.99,19.00,4
+669,Pet Safety Seat,59.99,15.60,4
+670,Dog Cooling Vest,34.99,5.60,4
+671,Pet Litter Mat,22.99,1.38,4
+672,Toy Robot,39.99,2.80,5
+673,LEGO Star Wars Set,89.99,7.20,5
+674,Kids’ Tent,49.99,17.50,5
+675,Magnetic Building Blocks,34.99,11.20,5
+676,Ride-On Toy,99.99,17.00,5
+677,Child’s Tool Set,29.99,12.90,5
+678,Remote-Controlled Truck,54.99,20.90,5
+679,Activity Center,79.99,4.00,5
+680,Play Tent,24.99,11.25,5
+681,Paddle Ball,9.99,4.40,5
+682,Sports Goggles,18.99,8.36,6
+683,Hiking Boots,89.99,31.50,6
+684,Golf Bag,129.99,53.30,6
+685,Camping Chair,39.99,5.20,6
+686,Tennis Shorts,24.99,2.00,6
+687,Soccer Shin Guards,14.99,5.10,6
+688,Sports Socks,12.99,5.33,6
+689,Exercise Resistance Bands,19.99,1.20,6
+690,Beach Ball,9.99,3.60,6
+691,Kids’ Baseball Mitt,29.99,9.00,6
+692,Archery Set,129.99,32.50,6
+693,Pet Door,99.99,38.00,4
+694,Cat Food Mat,12.99,1.43,4
+695,Dog Bandana,9.99,0.50,4
+696,Bird Treats,14.99,4.35,4
+697,Pet Sling Carrier,29.99,2.70,4
+698,Pet Food Storage Container,22.99,8.28,4
+699,Cat Window Perch,39.99,9.60,4
+700,Dog Boots,19.99,8.40,4
+701,Pet Car Seat Cover,34.99,10.85,4
+702,Pet Travel Bowl,24.99,3.50,4
+703,Cat Play Mat,14.99,4.65,4
+704,Action Figures Set,29.99,3.90,5
+705,Children’s Puzzle,18.99,3.23,5
+706,Remote-Controlled Boat,64.99,6.50,5
+707,Kids’ Board Games,22.99,2.07,5
+708,Stuffed Animal Set,39.99,4.00,5
+709,Bouncing Ball,19.99,6.60,5
+710,Ride-On Car,149.99,49.50,5
+711,Inflatable Slide,119.99,40.80,5
+712,Kid’s Swing Set,79.99,21.60,5
+713,Skateboard Deck,39.99,16.40,6
+714,Tennis Racket Set,49.99,19.00,6
+715,Outdoor Basketball Net,29.99,9.90,6
+716,Golf Driving Range Net,99.99,24.00,6
+717,Soccer Goal,79.99,30.40,6
+718,Baseball Helmet,29.99,6.30,6
+719,Paddleboard,299.99,87.00,6
+720,Portable Basketball Hoop,89.99,32.40,6
+721,Fitness Mat,22.99,3.22,6
+722,Trail Running Shoes,69.99,10.50,6
+723,Rock Climbing Harness,99.99,21.00,6
+724,Pet Training Mat,19.99,7.40,4
+725,Cat Playhouse,49.99,16.50,4
+726,Dog Bed with Canopy,79.99,34.40,4
+727,Pet Odor Neutralizer,14.99,6.30,4
+728,Cat Puzzle Feeder,24.99,9.25,4
+729,Pet Car Window Shade,19.99,7.60,4
+730,Dog Life Jacket,29.99,6.30,4
+731,Pet Thermometer,22.99,3.45,4
+732,Dog Harness with Leash,29.99,13.50,4
+733,Cat Water Fountain,39.99,10.00,4
+734,Kid’s Beach Tent,34.99,8.05,5
+735,Remote-Controlled Helicopter,59.99,12.00,5
+736,Kids’ Bounce House,129.99,24.70,5
+737,Mini Pool Table,89.99,32.40,5
+738,Art Supplies Set,22.99,1.84,5
+739,Indoor Climbing Set,99.99,34.00,5
+740,Electronic Building Blocks,49.99,20.50,5
+741,Kid’s Yoga Mat,18.99,8.17,5
+742,Pet Exercise Wheel,39.99,16.40,4
+743,Dog Toothpaste,9.99,4.20,4
+744,Pet First Aid Kit,29.99,6.90,4
+745,Cat Wand Toy,14.99,5.40,4
+746,Pet Seat Belt,22.99,5.75,4
+747,Cat Tunnels,19.99,2.00,4
+748,Dog Play Pen,69.99,3.50,4
+749,Pet Travel Water Bottle,12.99,2.34,4
+750,Dog Bowls with Stand,29.99,7.80,4
+751,Pet Cooling Pad,34.99,2.45,4
+752,Kids’ Scooter,39.99,15.60,5
+753,Magnetic Puzzle,24.99,9.75,5
+754,Inflatable Obstacle Course,149.99,43.50,5
+755,Child’s Paint Set,19.99,5.40,5
+756,Remote-Controlled Car Set,54.99,4.95,5
+757,Mini Basketball Hoop,29.99,1.50,6
+758,Lightweight Camping Tent,79.99,35.20,6
+759,Resistance Training Equipment,39.99,6.80,6
+760,Paddleboard Accessories,22.99,6.44,6
+761,Sports Hand Grips,16.99,5.44,6
+762,Baseball Batting Tee,59.99,7.80,6
+763,Foldable Bike Rack,49.99,18.50,6
+764,Exercise Roller,24.99,5.50,6
+765,Golf Cart,249.99,35.00,6
