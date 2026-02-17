@@ -19,6 +19,9 @@ An ERD diagram is included to visually represent the database schema and relatio
 ---
 
 ![erd](https://github.com/aamiriqbal06/postgresql-Amazon-Advanced-Project-sql/blob/main/erd.png)
+
+---
+
 ![TABLE_OVERVIEW](https://github.com/aamiriqbal06/postgresql-Amazon-Advanced-Project-sql/blob/main/Amazon_Schema.jpg)
 ## **Database Setup & Design**
 
