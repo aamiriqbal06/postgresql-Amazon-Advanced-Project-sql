@@ -1,4 +1,4 @@
-# 🛒 Amazon USA Sales Analysis using PostgreSQL
+#  Amazon USA Sales Analysis using PostgreSQL
 
 ---
 
@@ -23,7 +23,7 @@ This project reflects how SQL is used in production environments to support busi
 
 ---
 
-## 🏗 Database Design
+##  Database Design
 
 The database was designed using a normalized relational schema including:
 
@@ -47,7 +47,7 @@ An **ERD diagram** is included in the repository to visualize relationships and 
 ![TABLE_OVERVIEW](https://github.com/aamiriqbal06/postgresql-Amazon-Advanced-Project-sql/blob/main/Amazon_Schema.jpg)
 
 ---
-## 🧠 SQL Concepts & Techniques Used
+##  SQL Concepts & Techniques Used
 
 - Complex **JOIN** operations (INNER, LEFT)
 - **Common Table Expressions (CTE)**
@@ -62,26 +62,26 @@ An **ERD diagram** is included in the repository to visualize relationships and 
 
 ---
 
-## 🔍 Highlighted Analytical Problems Solved
+##  Highlighted Analytical Problems Solved
 
-### 1️⃣ Customer Lifetime Value (CLTV)
+### 1️ Customer Lifetime Value (CLTV)
 Ranked customers based on total lifetime purchase value using window functions.
 
-### 2️⃣ Monthly Sales Trend Analysis
+### 2️ Monthly Sales Trend Analysis
 Used `LAG()` to compare current month revenue with previous month performance.
 
-### 3️⃣ Shipping Delay Detection
+### 3️ Shipping Delay Detection
 Identified orders shipped more than 3 days after order date to monitor operational inefficiencies.
 
-### 4️⃣ Profit Margin Ranking
+### 4️ Profit Margin Ranking
 Calculated product-level profit margins using COGS and total sales.
 
-### 5️⃣ Revenue Contribution by Category
+### 5️ Revenue Contribution by Category
 Determined percentage contribution of each product category to total revenue.
 
 ---
 
-## 📦 Operational Analysis Performed
+##  Operational Analysis Performed
 
 - High return-rate products identification  
 - Inactive sellers (no sales in last 6 months)  
@@ -92,7 +92,7 @@ Determined percentage contribution of each product category to total revenue.
 
 ---
 
-## 📈 Business Impact Simulation
+##  Business Impact Simulation
 
 This project demonstrates how SQL can be used to:
 
@@ -104,7 +104,7 @@ This project demonstrates how SQL can be used to:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - PostgreSQL  
 - SQL  
@@ -119,4 +119,4 @@ Aspiring Data Analyst | SQL | PostgreSQL
 
 ---
 
-⭐ If you found this project interesting, feel free to connect or provide feedback!
+ If you found this project interesting, feel free to connect or provide feedback!
